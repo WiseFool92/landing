@@ -7,3 +7,11 @@ img {
 h1 {
   color: blueviolet;
 }
+.title .well p {
+  background-color: palegreen;
+  border: 2px rgb(84, 30, 210);
+}
+.container .jumbotron p .highlight {
+  background-color: paleturquoise;
+  color: rgb(255, 0, 212);
+}
