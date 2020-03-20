@@ -1,3 +1,9 @@
 .jumbotron h2 {
   color: red;
 }
+img {
+  float: right;
+}
+h1 {
+  color: blueviolet;
+}
