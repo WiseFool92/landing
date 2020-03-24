@@ -8,6 +8,11 @@
 
 This is a page set up to depict all knowledge taught from week one @Epicodus. Sporting information about thynself, as a start to my digital resume construction.
 
+## Setup Instructions
+
+Clone/download repository, Open HTML to view the webpage
+To make changes - Initialize your own repo on git
+
 ## Known Bugs
 
 None known as of 03/20/2020
