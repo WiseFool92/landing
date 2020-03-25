@@ -11,7 +11,6 @@ This is a page set up to depict all knowledge taught from week one @Epicodus. Sp
 ## Setup Instructions
 
 Clone/download repository, Open HTML to view the webpage
-To make changes/commit and save - Initialize your own repo on git
 
 ## gh-pages
 
